@@ -28,7 +28,6 @@
             android:src="@drawable/twin"
             app:srcCompat="@drawable/twin"
             />
-
         <ImageButton
             android:id="@+id/hill"
             android:layout_width="200dp"
